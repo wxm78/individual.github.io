@@ -1,5 +1,7 @@
 ---
 title: MySQL5.7的解压安装
+tags: ["MySQL","安装"]
+categories: ["数据库"]
 ---
 
 ## 解压版MySQL5.7安装
