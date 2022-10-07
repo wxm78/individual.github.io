@@ -7,7 +7,30 @@
 
   <aside class="sidebar">
     <div class="sidebar-inner">
-
+   
+    <!-- require APlayer -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+    <!-- require MetingJS-->
+    <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script> 
+    <!--音乐-->   
+    <meting-js
+      server="tencent"
+      id="8649594311"
+	  type="playlist" 
+	    mini="false"
+      fixed="false"
+      list-folded="true"
+      autoplay="false"
+      volume="0.4"
+      theme="#FADFA3"
+      order="random"
+	  loop="all"
+      preload="auto"
+      mutex="true">
+    </meting-js>
+    
+    
       {%- set display_toc = page.toc.enable and display_toc %}
       {%- if display_toc %}
         {%- set toc = toc(page.content, { class: "nav", list_number: page.toc.number, max_depth: page.toc.max_depth }) %}
