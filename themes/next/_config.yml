@@ -122,6 +122,7 @@ menu:
   categories: /categories/ || fa fa-th
   archives: /archives/ || fa fa-archive
   schedule: /schedule/ || fa fa-calendar
+  links: /links/|| link
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
 
@@ -202,6 +203,7 @@ links_settings:
 
 links:
   #Title: http://yoursite.com
+  bilibili: https://www.bilibili.com/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (unsupport wrap expand_all).
@@ -995,3 +997,14 @@ vendors:
 css: css
 js: js
 images: images
+
+mylinks:
+  - nickname: bilibili     # 昵称
+    avatar: https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/B%E7%AB%99.png # 头像地址
+    site: https://www.bilibili.com/ #友链地址
+    info: cj
+
+  - nickname: 果壳剥核     # 昵称
+    avatar: https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/%E6%9E%9C%E5%A3%B3.png # 头像地址
+    site: https://www.ghxi.com/ #友链地址
+    info: cj
