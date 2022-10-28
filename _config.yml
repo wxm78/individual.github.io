@@ -106,3 +106,9 @@ deploy:
 
 aplayer:
   meting: true
+
+excerpt:		
+  depth: 5			#全文阅读预览长度设置
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
