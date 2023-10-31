@@ -224,7 +224,7 @@ unsigned //无符号的
 sizeof //计算大小
 static //静态的，修饰函数变量
 switch //switch case语句
-typedef //类型重命名
+typedef //类型重命名 类型定义
 void //无 （函数的返回类型，函数的参数）
 volatile //
 while //循环
