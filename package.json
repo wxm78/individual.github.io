@@ -10,7 +10,7 @@
     "netlify": "npm run clean && npm run build"
   },
   "hexo": {
-    "version": "6.3.0"
+    "version": "7.0.0"
   },
   "dependencies": {
     "aplayer": "^1.10.1",

@@ -105,7 +105,7 @@ deploy:
   type: ''
 
 aplayer:
-  meting: true
+  meting: false
 
 excerpt:		
   depth: 5			#全文阅读预览长度设置

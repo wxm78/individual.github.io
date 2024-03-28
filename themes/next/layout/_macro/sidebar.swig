@@ -15,8 +15,8 @@
     <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script> 
     <!--音乐-->   
     <meting-js
-      server="tencent"
-      id="8649594311"
+      server=""
+      id=""
 	  type="playlist" 
 	    mini="false"
       fixed="false"
