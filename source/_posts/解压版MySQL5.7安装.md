@@ -9,17 +9,7 @@ categories: ["数据库"]
 ##### 1.下载https://downloads.mysql.com/archives/community/
 
 
-
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%2811%29.png)
-
-
-
 ##### 2.解压至安装完目录
-
-
-
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20(1).png)
-
 
 
 ##### 3.配置环境
@@ -30,7 +20,7 @@ categories: ["数据库"]
 
 
 
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%2813%29.png)
+
 
 
 
@@ -54,23 +44,27 @@ skip-grant-tables
 
 
 
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%281%29.png)
 
 
 
-用管理员方式打开命令提示符，如下
+用管理员方式打开命令提示符
 
 
 
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%282%29.png)
 
 
 
-切换至mysql目录下进行安装,安装成功显示如下
+切换至mysql目录下进行安装
 
 
+``` 
+mysqld -install
+```
 
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%286%29.png)
+```
+mysqld --initialize-insecure
+```
+
 
 
 
@@ -80,31 +74,21 @@ skip-grant-tables
 ``` 
 net start mysql
 ```
-成功如下
 
-
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%287%29.png)
 
 
 输入停止命令
 ```
 net stop mysql
 ```
-成功如下
 
-
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%288%29.png)
 
 
 输入登录命令
 ```
 mysql -u root -p
 ```
-如果成功此时的密码为空，在配置文件中设置了跳过安全验证输入密码时直接回车即可登录，成功如下
-
-
-
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%289%29.png)
+如果成功此时的密码为空，在配置文件中设置了跳过安全验证输入密码时直接回车即可登录
 
 
 
@@ -115,7 +99,7 @@ mysql -u root -p
 #第一步
 use mysql;
 #第二步
-update user set authentication_string=password('自己设置的密码') where user='root' and Host='localhost';
+ALTER user root@'localhost' identified by 'cjzbgsyxjy1';
 #最后进行刷新
 flush privileges;
 #退出
@@ -125,7 +109,6 @@ quit;
 成功如下
 
 
-![](https://markdown-1308075812.cos.ap-shanghai.myqcloud.com/mysql%E5%AE%89%E8%A3%85%20%2810%29.png)
 
 
 然后在my.ini文件中注释掉跳过安全验证的代码
