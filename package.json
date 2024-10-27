@@ -10,7 +10,7 @@
     "netlify": "npm run clean && npm run build"
   },
   "hexo": {
-    "version": "7.0.0"
+    "version": "7.2.0"
   },
   "dependencies": {
     "aplayer": "^1.10.1",
@@ -24,6 +24,7 @@
     "hexo-renderer-marked": "^6.3.0",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
+    "hexo-symbols-count-time": "^0.7.1",
     "hexo-tag-aplayer": "^3.0.4",
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-next": "^8.21.0"

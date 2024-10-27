@@ -1,0 +1,467 @@
+[33mcommit c19ffc264e672442dc10a339f8f1f7235bd60803[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sun Oct 27 13:54:45 2024 +0800
+
+    commit message
+
+[33mcommit d1dcad54634d28c3d0b781efcaaf59308a275b07[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sun Oct 27 13:01:43 2024 +0800
+
+    commit message
+
+[33mcommit 05df13cce0618c474385c9265efb02dbdc8e0391[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Oct 7 19:06:58 2024 +0800
+
+    commit message
+
+[33mcommit 460e590afe1fd0d728e65d0c71493452074f2bd4[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Oct 7 17:40:20 2024 +0800
+
+    commit message
+
+[33mcommit 19c8953ddbe89d3e25e708ca86a295522a782e63[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Oct 7 17:35:55 2024 +0800
+
+    commit message
+
+[33mcommit cca4a8e4d44a32de66a9c6973c44269fcae709f7[m
+Merge: dc6cd96 6407553
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Oct 7 17:23:29 2024 +0800
+
+    commit message
+
+[33mcommit 640755358d186ca20d299e3cfc82674362f729f7[m
+Merge: 580ca66 823c72b
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Oct 7 16:44:15 2024 +0800
+
+    Merge pull request #19 from wxm78/dependabot/npm_and_yarn/hexo-generator-index-4.0.0
+    
+    Bump hexo-generator-index from 3.0.0 to 4.0.0
+
+[33mcommit dc6cd961c4a68edc00e7afdf1b7783b7371b8743[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Oct 7 16:40:08 2024 +0800
+
+    my blog first commit
+
+[33mcommit 823c72bbd0fb1ae2c10c0e30e496b8d3b39a5b7a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Jul 9 13:24:16 2024 +0000
+
+    Bump hexo-generator-index from 3.0.0 to 4.0.0
+    
+    Bumps [hexo-generator-index](https://github.com/hexojs/hexo-generator-index) from 3.0.0 to 4.0.0.
+    - [Release notes](https://github.com/hexojs/hexo-generator-index/releases)
+    - [Commits](https://github.com/hexojs/hexo-generator-index/compare/v3.0.0...v4.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-generator-index
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 580ca666b72e315e5ed86373868be98630104ae0[m
+Merge: 79e21b9 116abc5
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Wed Apr 17 22:06:19 2024 +0800
+
+    Merge pull request #17 from wxm78/dependabot/npm_and_yarn/hexo-7.2.0
+    
+    Bump hexo from 7.1.1 to 7.2.0
+
+[33mcommit 116abc5e873723c872387bff06188e9318700166[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Apr 17 14:02:47 2024 +0000
+
+    Bump hexo from 7.1.1 to 7.2.0
+    
+    Bumps [hexo](https://github.com/hexojs/hexo) from 7.1.1 to 7.2.0.
+    - [Release notes](https://github.com/hexojs/hexo/releases)
+    - [Commits](https://github.com/hexojs/hexo/compare/v7.1.1...v7.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 79e21b9a110c71bc97ed62cc127a376021deb377[m
+Merge: 33c6e18 e6c7029
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Wed Apr 17 18:33:30 2024 +0800
+
+    Merge pull request #16 from wxm78/dependabot/npm_and_yarn/hexo-renderer-marked-6.3.0
+    
+    Bump hexo-renderer-marked from 6.2.0 to 6.3.0
+
+[33mcommit 33c6e1847cce86b6f6e017471e793c1cdba9d115[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Wed Apr 17 16:18:07 2024 +0800
+
+    commit message
+
+[33mcommit e6c70292052ddec7dc4fb379ca122cb9f308f638[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Apr 2 13:40:36 2024 +0000
+
+    Bump hexo-renderer-marked from 6.2.0 to 6.3.0
+    
+    Bumps [hexo-renderer-marked](https://github.com/hexojs/hexo-renderer-marked) from 6.2.0 to 6.3.0.
+    - [Release notes](https://github.com/hexojs/hexo-renderer-marked/releases)
+    - [Commits](https://github.com/hexojs/hexo-renderer-marked/compare/v6.2.0...v6.3.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-renderer-marked
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 9f09622d5478321102b68b4f5562d00264ae38c2[m
+Merge: 7f311bc 1e37d85
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Thu Mar 28 16:50:32 2024 +0800
+
+    commit message
+
+[33mcommit 7f311bcc8878e6e5ee4a8894c77dafb568ba4fa5[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Thu Mar 28 16:32:17 2024 +0800
+
+    commit message
+
+[33mcommit 1e37d85248ec2d9138097e0a9e087413b4980b5f[m
+Merge: 6af2fed 903977f
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sun Jan 28 10:32:09 2024 +0800
+
+    Merge pull request #14 from wxm78/dependabot/npm_and_yarn/hexo-7.1.1
+    
+    Bump hexo from 7.0.0 to 7.1.1
+
+[33mcommit 6af2feda753a19290c818e438a4216dfbdc565de[m
+Merge: 274aac2 1fdb46b
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sun Jan 28 10:31:57 2024 +0800
+
+    Merge pull request #13 from wxm78/dependabot/npm_and_yarn/hexo-renderer-stylus-3.0.1
+    
+    Bump hexo-renderer-stylus from 3.0.0 to 3.0.1
+
+[33mcommit 903977f3ecf74f7223122e37b7bfbe92712e05bc[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 22 13:17:15 2024 +0000
+
+    Bump hexo from 7.0.0 to 7.1.1
+    
+    Bumps [hexo](https://github.com/hexojs/hexo) from 7.0.0 to 7.1.1.
+    - [Release notes](https://github.com/hexojs/hexo/releases)
+    - [Commits](https://github.com/hexojs/hexo/compare/v7.0.0...v7.1.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 1fdb46be14a9ed1203093f53f718cd257758fc2e[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Jan 15 13:06:06 2024 +0000
+
+    Bump hexo-renderer-stylus from 3.0.0 to 3.0.1
+    
+    Bumps [hexo-renderer-stylus](https://github.com/hexojs/hexo-renderer-stylus) from 3.0.0 to 3.0.1.
+    - [Release notes](https://github.com/hexojs/hexo-renderer-stylus/releases)
+    - [Commits](https://github.com/hexojs/hexo-renderer-stylus/compare/v3.0.0...v3.0.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-renderer-stylus
+      dependency-type: direct:production
+      update-type: version-update:semver-patch
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 274aac2d67587f24344f1ba085f6ba50ea487673[m
+Merge: 6019ab0 f4edff4
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Dec 4 21:51:36 2023 +0800
+
+    Merge pull request #12 from wxm78/dependabot/npm_and_yarn/hexo-renderer-marked-6.2.0
+    
+    Bump hexo-renderer-marked from 6.1.1 to 6.2.0
+
+[33mcommit f4edff4931292fc2a553317d78517e75ffb78f2f[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Mon Dec 4 13:44:41 2023 +0000
+
+    Bump hexo-renderer-marked from 6.1.1 to 6.2.0
+    
+    Bumps [hexo-renderer-marked](https://github.com/hexojs/hexo-renderer-marked) from 6.1.1 to 6.2.0.
+    - [Release notes](https://github.com/hexojs/hexo-renderer-marked/releases)
+    - [Commits](https://github.com/hexojs/hexo-renderer-marked/compare/v6.1.1...v6.2.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-renderer-marked
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 6019ab08c387a0eedc4ff51c80816d5d229ecfb1[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sat Nov 25 14:11:13 2023 +0800
+
+    commit message
+
+[33mcommit 2b074921f7fa52cc82bf332c0c19521babb91f7c[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sat Nov 25 13:53:21 2023 +0800
+
+    commit message
+
+[33mcommit f1b57bf273c64d3cc0b8991746b4b1a3ceec6118[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sat Nov 25 13:44:40 2023 +0800
+
+    commit message
+
+[33mcommit b39d69ccfe5e7713c4b8acd5efedcc00641330ee[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sat Nov 25 13:33:17 2023 +0800
+
+    commit message
+
+[33mcommit ec938c0c130b9335f257a34a384bdeb2262319b7[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Nov 20 21:47:43 2023 +0800
+
+    commit message
+
+[33mcommit 459c1ac5b05f83bcec72df47e754d696833f53e3[m
+Merge: b2069cc ec3d098
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Wed Nov 1 21:50:22 2023 +0800
+
+    Merge pull request #11 from wxm78/dependabot/npm_and_yarn/hexo-7.0.0
+    
+    Bump hexo from 6.3.0 to 7.0.0
+
+[33mcommit ec3d098e6aa9b7db15997cecac7795881c1e5733[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Wed Nov 1 13:47:23 2023 +0000
+
+    Bump hexo from 6.3.0 to 7.0.0
+    
+    Bumps [hexo](https://github.com/hexojs/hexo) from 6.3.0 to 7.0.0.
+    - [Release notes](https://github.com/hexojs/hexo/releases)
+    - [Commits](https://github.com/hexojs/hexo/compare/6.3.0...v7.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit b2069cccf1fbfc604e433d34de8303209ab26c69[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Tue Oct 31 21:28:10 2023 +0800
+
+    commit message
+
+[33mcommit 53e66fac0833d0fe7352b6cc98cb4b837cd474a5[m
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Mon Oct 30 19:40:03 2023 +0800
+
+    commit message
+
+[33mcommit 9deea01a5b26a7cf629529f587fe0b9cae21a608[m
+Merge: 062fa25 269c71e
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Tue Aug 29 21:01:51 2023 +0800
+
+    Merge pull request #10 from wxm78/dependabot/npm_and_yarn/hexo-renderer-marked-6.1.1
+    
+    Bump hexo-renderer-marked from 6.0.0 to 6.1.1
+
+[33mcommit 269c71eb367a1039db259f2166937cc4277ac0e2[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Thu Jul 13 13:39:23 2023 +0000
+
+    Bump hexo-renderer-marked from 6.0.0 to 6.1.1
+    
+    Bumps [hexo-renderer-marked](https://github.com/hexojs/hexo-renderer-marked) from 6.0.0 to 6.1.1.
+    - [Release notes](https://github.com/hexojs/hexo-renderer-marked/releases)
+    - [Commits](https://github.com/hexojs/hexo-renderer-marked/compare/v6.0.0...v6.1.1)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-renderer-marked
+      dependency-type: direct:production
+      update-type: version-update:semver-minor
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 062fa250dfcc22f5bc8042dc508b605d67778798[m
+Merge: f7358fa 3ca25f3
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sun May 21 08:53:03 2023 +0800
+
+    Merge pull request #8 from wxm78/dependabot/npm_and_yarn/hexo-renderer-stylus-3.0.0
+    
+    Bump hexo-renderer-stylus from 2.1.0 to 3.0.0
+
+[33mcommit 3ca25f3516d84ed25508be67c0c80859b8cd5f64[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 19 14:03:21 2023 +0000
+
+    Bump hexo-renderer-stylus from 2.1.0 to 3.0.0
+    
+    Bumps [hexo-renderer-stylus](https://github.com/hexojs/hexo-renderer-stylus) from 2.1.0 to 3.0.0.
+    - [Release notes](https://github.com/hexojs/hexo-renderer-stylus/releases)
+    - [Commits](https://github.com/hexojs/hexo-renderer-stylus/compare/2.1.0...v3.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-renderer-stylus
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit f7358fa360643c4fb7ef07bf5d76a11fdadd34d6[m
+Merge: 42938bd 8d4a9fb
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Fri May 12 22:07:03 2023 +0800
+
+    Merge pull request #7 from wxm78/dependabot/npm_and_yarn/hexo-theme-landscape-1.0.0
+    
+    Bump hexo-theme-landscape from 0.0.3 to 1.0.0
+
+[33mcommit 8d4a9fb9a954b1a1913a7acd3349e632a2cb540a[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri May 12 14:02:58 2023 +0000
+
+    Bump hexo-theme-landscape from 0.0.3 to 1.0.0
+    
+    Bumps [hexo-theme-landscape](https://github.com/hexojs/hexo-theme-landscape) from 0.0.3 to 1.0.0.
+    - [Release notes](https://github.com/hexojs/hexo-theme-landscape/releases)
+    - [Commits](https://github.com/hexojs/hexo-theme-landscape/compare/v0.0.3...v1.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-theme-landscape
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 42938bd0af626e8fbd887f81647d5154afb944aa[m
+Merge: 9395d04 83725ac
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sat Mar 25 01:59:01 2023 +0800
+
+    Merge pull request #3 from wxm78/dependabot/npm_and_yarn/hexo-generator-archive-2.0.0
+    
+    Bump hexo-generator-archive from 1.0.0 to 2.0.0
+
+[33mcommit 83725ac0f3249029ca947d837b85abe270ab1e18[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 24 17:58:46 2023 +0000
+
+    Bump hexo-generator-archive from 1.0.0 to 2.0.0
+    
+    Bumps [hexo-generator-archive](https://github.com/hexojs/hexo-generator-archive) from 1.0.0 to 2.0.0.
+    - [Release notes](https://github.com/hexojs/hexo-generator-archive/releases)
+    - [Commits](https://github.com/hexojs/hexo-generator-archive/compare/v1.0.0...v2.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-generator-archive
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 9395d04b537cb64c1b6e2a2ec60a162648a7c6d8[m
+Merge: b62ad2d 55b1c46
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sat Mar 25 01:57:43 2023 +0800
+
+    Merge pull request #2 from wxm78/dependabot/npm_and_yarn/hexo-generator-category-2.0.0
+    
+    Bump hexo-generator-category from 1.0.0 to 2.0.0
+
+[33mcommit b62ad2dc238dfa0e8eaa3fee657a2c908c225633[m
+Merge: 922df65 111b56b
+Author: wxm <81608551+wxm78@users.noreply.github.com>
+Date:   Sat Mar 25 01:57:19 2023 +0800
+
+    Merge pull request #4 from wxm78/dependabot/npm_and_yarn/hexo-generator-tag-2.0.0
+    
+    Bump hexo-generator-tag from 1.0.0 to 2.0.0
+
+[33mcommit 55b1c46c2267d0f24eaca04b7bc4b1a88b684a9d[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 24 17:56:31 2023 +0000
+
+    Bump hexo-generator-category from 1.0.0 to 2.0.0
+    
+    Bumps [hexo-generator-category](https://github.com/hexojs/hexo-generator-category) from 1.0.0 to 2.0.0.
+    - [Release notes](https://github.com/hexojs/hexo-generator-category/releases)
+    - [Commits](https://github.com/hexojs/hexo-generator-category/compare/v1.0.0...v2.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-generator-category
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 111b56bbed229bdbd0bd60223fca4b54c69410eb[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Fri Mar 24 17:56:31 2023 +0000
+
+    Bump hexo-generator-tag from 1.0.0 to 2.0.0
+    
+    Bumps [hexo-generator-tag](https://github.com/hexojs/hexo-generator-tag) from 1.0.0 to 2.0.0.
+    - [Release notes](https://github.com/hexojs/hexo-generator-tag/releases)
+    - [Commits](https://github.com/hexojs/hexo-generator-tag/compare/1.0.0...v2.0.0)
+    
+    ---
+    updated-dependencies:
+    - dependency-name: hexo-generator-tag
+      dependency-type: direct:production
+      update-type: version-update:semver-major
+    ...
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
